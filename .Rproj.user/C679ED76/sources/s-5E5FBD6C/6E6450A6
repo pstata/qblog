@@ -1,0 +1,31 @@
+{
+    "id": "6E6450A6",
+    "path": "~/qblog/posts/r2rtf presentation/index.qmd",
+    "project_path": "posts/r2rtf presentation/index.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1656165932727.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "826:831.3333129882812",
+        "docOutlineVisible": "1",
+        "cursorPosition": "35,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1656165785,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1656165785,
+    "read_only": false,
+    "read_only_alternatives": []
+}

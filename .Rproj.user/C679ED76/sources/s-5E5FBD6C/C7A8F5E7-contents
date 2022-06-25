@@ -1,0 +1,38 @@
+---
+title: "r2rtf presentation"
+author: "Phanikumar s tata"
+date: "2022-06-13"
+categories: [news]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+# [r2rtf](https://merck.github.io/r2rtf/ "Package to write output in .Rtf format")
+
+## **Overview**
+
+`r2rtf` is an R package to create production-ready tables and figures in RTF format. The R package is designed to
+
+-   provide simple "verb" functions that correspond to each component of a table, to help you translate data frame(s) to a table in RTF file.
+
+-   enables pipes (`%>%`).
+
+-   only focus on **table format**.
+
+    -   Data manipulation and analysis shall be handled by other R packages. (e.g., `tidyverse`)
+
+-   minimizes package dependency
+
+## **Installation**
+
+You can install the package via CRAN:
+
+    install.packages("r2rtf")
+
+Or, install from GitHub:
+
+    remotes::install_github("Merck/r2rtf")
+
+## **Highlighted Features**
+
+The R package`r2rtf` provided flexibility to enable features below:

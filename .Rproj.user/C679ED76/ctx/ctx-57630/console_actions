@@ -1,0 +1,12 @@
+{
+    "type": [
+        0,
+        1,
+        2
+    ],
+    "data": [
+        "> ",
+        "?quarto",
+        "No documentation for ‘quarto’ in specified packages and libraries:\nyou could try ‘??quarto’\n\nRestarting R session...\n\n"
+    ]
+}

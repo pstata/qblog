@@ -4,6 +4,62 @@
     "href": "index.html",
     "title": "qblog",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 16, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJun 13, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\nReading Time\n\n\n\n\n\n\n\n\n\nJun 16, 2022\n\n\nPost With Code\n\n\nHarlow Malloc\n\n\n0 min\n\n\n\n\n\n \n\n\n\nJun 13, 2022\n\n\nr2rtf presentation\n\n\nPhanikumar s tata\n\n\n0 min\n\n\n\n\n\n\n\nJun 13, 2022\n\n\nWelcome To My Blog\n\n\nTristan O’Malley\n\n\n0 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html#title-block-banner-true",
+    "href": "index.html#title-block-banner-true",
+    "title": "qblog",
+    "section": "title-block-banner: true",
+    "text": "title-block-banner: true\nYou can review the following documents for additional information :\n::: {#sample-listings}\n:::"
+  },
+  {
+    "objectID": "posts/r2rtf presentation/index.html",
+    "href": "posts/r2rtf presentation/index.html",
+    "title": "r2rtf presentation",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "posts/r2rtf presentation/index.html#overview",
+    "href": "posts/r2rtf presentation/index.html#overview",
+    "title": "r2rtf presentation",
+    "section": "Overview",
+    "text": "Overview\nr2rtf is an R package to create production-ready tables and figures in RTF format. The R package is designed to\n\nprovide simple “verb” functions that correspond to each component of a table, to help you translate data frame(s) to a table in RTF file.\nenables pipes (%>%).\nonly focus on table format.\n\nData manipulation and analysis shall be handled by other R packages. (e.g., tidyverse)\n\nminimizes package dependency"
+  },
+  {
+    "objectID": "posts/r2rtf presentation/index.html#installation",
+    "href": "posts/r2rtf presentation/index.html#installation",
+    "title": "r2rtf presentation",
+    "section": "Installation",
+    "text": "Installation\nYou can install the package via CRAN:\ninstall.packages(\"r2rtf\")\nOr, install from GitHub:\nremotes::install_github(\"Merck/r2rtf\")"
+  },
+  {
+    "objectID": "posts/r2rtf presentation/index.html#highlighted-features",
+    "href": "posts/r2rtf presentation/index.html#highlighted-features",
+    "title": "r2rtf presentation",
+    "section": "Highlighted Features",
+    "text": "Highlighted Features\nThe R packager2rtf provided flexibility to enable features below:"
   }
 ]
